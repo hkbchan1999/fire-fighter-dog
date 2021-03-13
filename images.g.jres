@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQAA4AAAAAEOEAAAAAAAAREQ4AAAAAEBFB7g8AAAAQEUQREf//ABARFPERGvEAAB4REREa8QAA4BER9BrxAADgERH0Gv8AAB4REREaDwAQERTxERoPABARRBGhEfEAEBFB7v/x/wAAEREO8PEAAAAQ4QAf8QAAAAAAAP8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "firedog"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAICIiIiICAAAgIkJEJCIAACIiVFVFIiIgIlRVVVVVJCAiVFVVVVUkICJUVVVVVSQgIlRVVVVVJCAiVFVVVVUkICJUVVVVVSQgIlRVVVVVJCAiVFVVVVUkICJUVVVVVSQgIlJVVVVVJCAiUlVVVVUkICJCRERERCQgIiIiIiIiIg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fire"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJCZmQAAAAAAmZmZCQAAAJCZmZkJAAAAmZmZiQkAAJmZmYmICQCQmZmIiIgJAJCZiIiIiAkAkJmIiIiICQAAmYmIiIgJAACQmYmIiAkAAACZmZmICQAAAJCZmZkJAAAAAJCZmQAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "water"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
